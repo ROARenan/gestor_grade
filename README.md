@@ -1,6 +1,3 @@
-Claro, ficarei feliz em ajudar! Abaixo está um exemplo básico de um arquivo `README.md` para o seu projeto de notificação diária no WhatsApp sobre suas aulas na faculdade. Lembre-se de personalizar conforme necessário:
-
-```markdown
 # Notificador de Aulas no WhatsApp
 
 Este é um projeto simples de programação para receber notificações diárias no WhatsApp sobre as aulas agendadas na faculdade.
